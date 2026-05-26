@@ -4,8 +4,8 @@ const redesSociais = [
   { nome: "YouTube",   imagem: "img/youtube.jpg"   },
   { nome: "TikTok",    imagem: "img/tiktok.jpg"    },
   { nome: "X",         imagem: "img/x.jpg"         },
-  { nome: "Discord",   imagem: "img/discord.jpg"   },
-  { nome: "Twitch",    imagem: "img/twitch.jpg"    },
+  { nome: "Avengers",   imagem: "img/avengers.jpg"   },
+  { nome: "Thor Ragnarok",    imagem: "img/thorragna.jpg"    },
 ];
 
 // Começa todos os votos zerados
